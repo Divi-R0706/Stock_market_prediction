@@ -5,3 +5,5 @@ In this task, we build a simple Linear Regression model to predict future stock 
 This task analyzes messages to classify them as spam or ham using a Logistic Regression model. The dataset is split into 80% for training and 20% for testing. After cleaning and vectorizing the text, the model learns spam patterns and predicts whether new messages are spam with good accuracy.
 
 
+
+
